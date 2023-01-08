@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>https://rhinosys.github.io/Esp8266-DisableIndectionTable/</loc>
+         <lastmod>2023-01-08</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://rhinosys.github.io/Esp8266-DisableIndectionTable/en/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="https://rhinosys.github.io/Esp8266-DisableIndectionTable/fr/"/>
+         
+    </url>
+    <url>
+         <loc>https://rhinosys.github.io/Esp8266-DisableIndectionTable/SSR-40DA/specification/</loc>
+         <lastmod>2023-01-08</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://rhinosys.github.io/Esp8266-DisableIndectionTable/en/SSR-40DA/specification/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="https://rhinosys.github.io/Esp8266-DisableIndectionTable/fr/SSR-40DA/specification/"/>
+         
+    </url>
+    <url>
+         <loc>https://rhinosys.github.io/Esp8266-DisableIndectionTable/montage/montage/</loc>
+         <lastmod>2023-01-08</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://rhinosys.github.io/Esp8266-DisableIndectionTable/en/montage/montage/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="https://rhinosys.github.io/Esp8266-DisableIndectionTable/fr/montage/montage/"/>
+         
+    </url>
+</urlset>
